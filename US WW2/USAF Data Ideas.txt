@@ -1,0 +1,34 @@
+Inferences
+1. Most number of missions by theatre
+2. Most number of missions by country (Top 5)
+3. Most number of target country(Top 5)
+4. Most popular aircraft series (Top 5)
+5. Most common target type
+6. 
+
+
+data cleaning 
+1. Aircraft series OB17 instead of B17, OB24 instead of B24
+2. HVY bomber is not a valid aircraft type since it stands for heavy bomber which is not an aircraft number
+3. LGT bomber is not a valid aircraft type since it stands for light bomber which is not an aircraft number
+4. HAMP was the nickname given to a japanese aircraft
+5. GB24 is copy of B24
+6. MED is medium bomber
+7. OB24 is copy of B24
+8. LIB is short for liberator. Also B24
+9. BOST is another name for A20
+10. AUDA is unrecognised
+11. MARY is japanese
+12. A24 and SBD dauntless are the same
+13. P36 and mohawk are same ===
+14. TBF and TBF avenger are same
+15. LB 30 is same as B24
+16. JU86 is german. Turns out South Africa used a couple of these.
+17. TOM unidentified
+18. VAL is japanese
+19. 43 BG is probably 43rd bomber group
+20. 100 SQ is 100 RAF Squadron = lancaster
+21. 35FG is probably 35th fighter group
+22. bisley and blenheim are same
+23. p401 is probably a variant of p40
+24. 
